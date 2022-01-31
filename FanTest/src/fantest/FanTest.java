@@ -7,7 +7,7 @@ package fantest;
 
 import java.util.Scanner;
 
-/**
+/** 2022, new
  *
  * @author Nene Wann
  */
